@@ -1,0 +1,82 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2022-4-8, 16:11:10
+    Author     : ASUS
+*/
+/*.css1
+{
+    color:#ff9999;
+    font-size: 20px;
+    font-family: 楷体;
+    font-weight: hold;
+    font-style: normal
+}
+.box
+{
+    height: 25px;
+    width: 30%;
+    margin:5px;
+    float:left;
+    border-width: 1px;
+    border-style: solid;
+}
+.top
+{
+    height: 30px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 1px;
+    border-style: solid;
+}
+.CSS1
+{
+background-color:#3399FF;
+font-family:"黑体";
+font-size:36px;
+font-weight:bold;
+color:#000033;
+}
+.content
+{
+font-size:30px;
+font-weight:bold;
+font-family:"宋体";
+}
+.index
+{
+font-size:15px;
+font-weight:bolder;
+text-aligm:center;
+}
+.tableHead
+{background-color:#FF6699;
+font-family:"黑体";
+font-size:36px;
+font-weight:bold;
+color:#CCCCFF;
+}
+.CSS2
+{
+background-color:#FF99CC;
+font-family:"黑体";
+font-size:24px;
+font-weight:bold;
+color:#000033;
+}
+.CSS3
+{
+background-color:#3399FF;
+font-family:"黑体";
+font-size:20px;
+font-weight:bold;
+color:#000033;
+}*/
+.span{
+    color: red;
+    font-size: 30px
+}
